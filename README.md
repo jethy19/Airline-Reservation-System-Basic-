@@ -1,4 +1,4 @@
-# Airline-Reservation-System-Basic-
+# Airline-Reservation-System-Basic
 It aims to help users to book flights according to the availability payment option is not included
 
 ![Screenshot from 2024-04-08 12-35-33](https://github.com/jethy19/Airline-Reservation-System-Basic-/assets/76482787/ede97969-0337-4563-b230-f3cdca6b3456)
